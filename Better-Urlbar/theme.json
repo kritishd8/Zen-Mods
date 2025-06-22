@@ -1,0 +1,15 @@
+{
+    "id": "",
+    "name": "Better Urlbar",
+    "description": "This mod makes the urlbar look better similar to the one in Arc Browser.",
+    "homepage": "https://github.com/kritishd8/Zen-Mods/",
+    "style": "chrome.css",
+    "readme": "README.md",
+    "image": "",
+    "author": "kritishd8",
+    "version": "1.0.0",
+    "tags": [],
+    "createdAt": "2025-06-22",
+    "updatedAt": "2025-06-22",
+    "preferences": "preferences.json"
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "property": "better-urlbar.disable-acrylic",
+        "label": "Disable acrylic/blurred backdrop",
+        "type": "checkbox",
+        "defaultValue": false
+    }
+]
